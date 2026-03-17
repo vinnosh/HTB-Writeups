@@ -354,4 +354,4 @@ nt authority\system
 
 ---
 
-*Writeup by [your handle] | HackTheBox — Pirate (Hard)*
+*Writeup by [Vin] | HackTheBox — Pirate (Hard)*
